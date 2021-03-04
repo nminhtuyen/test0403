@@ -1,1 +1,1 @@
-spring.redis.otpExpiration = 50
+spring.redis.otpExpiration1 = 50
